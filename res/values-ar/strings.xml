@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">عرض</string>
+    <string name="hello_world">اهلا</string>
+    <string name="action_settings">الاعددات</string>
+    <string name="editName">ادخل اسمك</string>
+    <string name="editAge"> العمر </string>
+    <string name="name">الاسم :</string>
+    <string name="age">لعمر:</string>
+    <string name="result">النتيجه :</string>
+    
+    <string name="resultButton">النتيجه</string>
+    <string name="tName">اسمى :</string>
+     <string name="tName2"> الاسم الخاص بك  </string>
+     <string name="tAge">عمرى : </string>
+     <string name="tAge2"> عمرك</string>
+     <string name="years"> سنه</string>
+    
+    
+
+</resources>
